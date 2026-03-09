@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.env
+
+# Outputs / logs
+*.log
+sender_results*.xlsx
+output*.xlsx
+
+# Office / email files (DON'T COMMIT)
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+*.msg
+*.eml
+*.pst
+*.ost
+
+# OS
+.DS_Store
+Thumbs.db
